@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manoj Jangra</h1>
 <h3 align="center">A passionate FiveM Developer from Haryana, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iammanojjangra&label=Profile%20views&color=0e75b6&style=flat" alt="iammanojjangra" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iammanojjangra" alt="iammanojjangra" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **QBCore Servers**
 
 - 📫 How to reach me **iammanojangra@gmail.com**
@@ -16,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/iammanojjangra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iammanojjangra" height="30" width="40" /></a>
-<a href="https://discord.gg/MANOJJANGRA#2226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MANOJJANGRA#2226" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/CyV53rTBfe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/CyV53rTBfe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,9 +18,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/iammanojjangra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iammanojjangra" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iammanojjangra&show_icons=true&locale=en&layout=compact" alt="iammanojjangra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iammanojjangra&show_icons=true&locale=en" alt="iammanojjangra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iammanojjangra&" alt="iammanojjangra" /></p>
