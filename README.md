@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manoj Jangra</h1>
 <h3 align="center">A passionate FiveM Developer from Haryana, India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 - 🔭 I’m currently working on **QBCore Servers**
 
